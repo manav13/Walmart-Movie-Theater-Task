@@ -3,7 +3,7 @@ Algorithm to implement seating arrangement in a movie theatre to maximize both c
 
 ## Summary: 
 
-This algorithm arranges the seats for the customer such that the customer sattisfaction is received by allocating majority seats of the reservation together and maximising theater utilisation taking Covid situation in consideration. 
+This algorithm arranges the seats for the customer such that the customer sattisfaction is received by allocating majority seats of the reservation together and maximizing theater utilisation.
 
 ## Description:
 
