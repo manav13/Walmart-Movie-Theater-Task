@@ -3,11 +3,11 @@ Algorithm to implement seating arrangement in a movie theatre to maximize both c
 
 ## Summary: 
 
-This algorithm arranges the seats for the customer such that the customer sattisfaction is received by allocating majority seats of the reservation together and maximizing theater utilisation.
+This algorithm arranges the seats for the customer such that the customer sattisfaction is received by allocating majority seats of the reservation together and maximizing theater utilization.
 
 ## Description:
 
-Given a theatre with seating capacity of 20 seats in each of the 10 rows (200 seats), the algorithm needs to assign seats to the customers to maximize theatre utilization and gurantees customer sattisfaction.
+Given a theatre with seating capacity of 20 seats in each of the 10 rows (200 seats), the algorithm needs to assign seats to the customers to maximize theatre utilization and gurantees customer satisfaction.
 
 ## Input: 
 
@@ -23,7 +23,7 @@ R004 3 <br/>
 
 The output should be a file containing the seating assignments for each request. Each row in the file should include the reservation number followed by a space, and then a comma-delimited list of the assigned seats.
 
-### Sample Output Example: 
+### Sample Output Example:
 R001 I1,I2 <br/>
 R002 F16,F17,F18,F19 <br/>
 R003 A1,A2,A3,A4 <br/>
