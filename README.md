@@ -14,20 +14,20 @@ Given a theatre with seating capacity of 20 seats in each of the 10 rows (200 se
 An input file which would contain one line of input for each reservation request. The order of the lines in the file reflects the order in which the reservation requests were received. Each line in the file will be comprised of a reservation identifier, followed by a space, and then the number of seats requested. The reservation identifier will have the format: R####.
 
 ### Sample Input Example: 
-R001 2 
-R002 4 
-R003 4 
-R004 3
+R001 2 <br/>
+R002 4 <br/>
+R003 4 <br/>
+R004 3 <br/>
 
 ## Output:
 
 The output should be a file containing the seating assignments for each request. Each row in the file should include the reservation number followed by a space, and then a comma-delimited list of the assigned seats.
 
 ### Sample Output Example: 
-R001 I1,I2
-R002 F16,F17,F18,F19 
-R003 A1,A2,A3,A4 
-R004 J4,J5,J6
+R001 I1,I2 <br/>
+R002 F16,F17,F18,F19 <br/>
+R003 A1,A2,A3,A4 <br/>
+R004 J4,J5,J6 <br/>
 
 ## Assumptions
 - Row A is closest to Screen and later alphabets are farther away from screen.
